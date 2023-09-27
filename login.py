@@ -24,7 +24,7 @@ def login():
 
 def secured_page():
     print("Welcome to the secured page!")
-    # Add your secured page logic here
+
 
 # Main program loop
 while True:
